@@ -1,1 +1,16 @@
-{"android":{"code":2,"name":"V1.0.1","url":"http://wwww.baidu.com/","detail":"1.\u652f\u6301Android M N O P Q\n2.\u652f\u6301\u81ea\u5b9a\u4e49\u4e0b\u8f7d\u8fc7\u7a0b\n3.\u652f\u6301 \u8bbe\u5907>=Android M \u52a8\u6001\u6743\u9650\u7684\u7533\u8bf7","force":true},"ios":{"code":2,"name":"V1.0.1","url":"","detail":"1.\u652f\u6301Android M N O P Q\n2.\u652f\u6301\u81ea\u5b9a\u4e49\u4e0b\u8f7d\u8fc7\u7a0b\n3.\u652f\u6301 \u8bbe\u5907>=Android M \u52a8\u6001\u6743\u9650\u7684\u7533\u8bf7","force":true}}
+{
+    "android": {
+        "code": 1,
+        "name": "0.0.1",
+        "url": "https://gitee.com/fastssr/mm/raw/master/app-release.apk",
+        "detail": "初步上线！",
+        "force": true
+    },
+    "ios": {
+        "code": 1,
+        "name": "0.0.1",
+        "url": "https://gitee.com/fastssr/mm",
+        "detail": "升级优化",
+        "force": true
+    }
+}
